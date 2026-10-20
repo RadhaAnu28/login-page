@@ -15,7 +15,7 @@ A simple and responsive login page built using HTML and CSS. This project featur
 - CSS
 
 🌐 Live Demo
-Link to live demo: 
+Link to live demo: https://radhaanu28.github.io/login-page/
 
 📚 What I Learned
 - Structuring a webpage with HTML
